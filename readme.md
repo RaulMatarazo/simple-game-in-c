@@ -20,3 +20,5 @@ numRobo = rand()%4 + 1; // 0 - 4 but i put + 1, so it is 1 - 5
 
 The harder part of the project was randomize the numbers. You will see repetitive algorithms in each case.
 
+## Autores
+- [@raulmatarazo](https://www.linkedin.com/in/raulmatarazo/)
